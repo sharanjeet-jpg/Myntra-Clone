@@ -1,0 +1,48 @@
+.flex{
+    display: flex;
+}
+
+.items-center{
+    align-items: center;
+}
+
+.justify-center{
+    justify-content: center;
+}
+
+.space-between{
+    justify-content: space-between;
+}
+
+.uppercase{
+    text-transform: uppercase;
+}
+
+.semibold{
+    font-weight: bolder;
+}
+
+.mx-2{
+    margin-left: 12px;
+    margin-right: 12px;
+}
+
+.flex-wrap{
+    flex-wrap: wrap;
+}
+
+.sharan{
+    display: flex;
+    align-items: center;
+}
+
+.catagories{
+    font-weight: bolder;
+    text-transform: uppercase;
+    font-family: 'Roboto', sans-serif;
+}
+
+.my-2{
+    max-height: 12px;
+    
+}
